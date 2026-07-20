@@ -1,14 +1,16 @@
 # 🔥 Smart Admin Panel & Dashboard
-screenshots/deniz-codes-sc.png
+
+![Dashboard Preview](screenshots/deniz-codes-sc.png)
+
 A modern and responsive **Flutter Web Admin Dashboard** built with Flutter, featuring a clean UI, responsive layouts, and reusable components.
 
 ## ✨ Features
 
-* Responsive Dashboard UI
-* Clean & Modern Design
-* Reusable Widgets
-* Flutter Web Support
-* Easy to Customize
+- Responsive Dashboard UI
+- Clean & Modern Design
+- Reusable Widgets
+- Flutter Web Support
+- Easy to Customize
 
 ## 🚀 Getting Started
 
@@ -19,4 +21,4 @@ flutter run -d chrome
 
 ## 👨‍💻 Author
 
-**Syed Hadi**
+**SyedHadiAbidi**
