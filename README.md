@@ -19,4 +19,4 @@ flutter run -d chrome
 
 ## 👨‍💻 Author
 
-**Muhammad Rafay**
+**Syed Hadi**
